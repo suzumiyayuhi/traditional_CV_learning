@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\92305\Desktop\OpenCVTest\OpenCVTest\main.cpp(27,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\92305\Desktop\OpenCVTest\OpenCVTest\main.cpp(28,57): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\92305\Desktop\OpenCVTest\OpenCVTest\main.cpp(28,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\92305\Desktop\OpenCVTest\OpenCVTest\main.cpp(110,36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\92305\Desktop\OpenCVTest\OpenCVTest\main.cpp(110,14): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+C:\Users\92305\Desktop\OpenCVTest\OpenCVTest\main.cpp(112,30): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\92305\Desktop\OpenCVTest\OpenCVTest\main.cpp(113,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\92305\Desktop\OpenCVTest\OpenCVTest\main.cpp(113,16): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+C:\Users\92305\Desktop\OpenCVTest\OpenCVTest\main.cpp(131,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\92305\Desktop\OpenCVTest\OpenCVTest\main.cpp(134,22): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\92305\Desktop\OpenCVTest\OpenCVTest\main.cpp(611,3): warning C4102: “cv”: 未引用的标签
+  OpenCVTest.vcxproj -> C:\Users\92305\Desktop\OpenCVTest\x64\Debug\OpenCVTest.exe
